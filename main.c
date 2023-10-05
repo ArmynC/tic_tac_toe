@@ -158,5 +158,4 @@ void setChoice(char write){
     } else {
        turn--;
     }
-
 }
